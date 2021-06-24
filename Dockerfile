@@ -1,1 +1,1 @@
-From k8s.gcr.io/ingress-nginx/controller:v0.47.0
+From docker.io/jettech/kube-webhook-certgen:v1.5.1
