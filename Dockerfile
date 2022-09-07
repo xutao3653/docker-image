@@ -1,1 +1,1 @@
-From quay.io/csiaddons/k8s-sidecar:v0.4.0
+From quay.io/csiaddons/volumereplication-operator:v0.3.0
