@@ -1,1 +1,1 @@
-From registry.k8s.io/sig-storage/csi-resizer:v1.5.0
+From registry.k8s.io/sig-storage/csi-snapshotter:v6.0.1
