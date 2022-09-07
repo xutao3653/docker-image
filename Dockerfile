@@ -1,1 +1,1 @@
-From registry.access.redhat.com/rhel7/sssd:latest
+From registry.k8s.io/sig-storage/csi-attacher:v3.5.0
