@@ -1,1 +1,1 @@
-From bitnami/kubectl:1.21.11
+From docker.io/library/nginx:latest
