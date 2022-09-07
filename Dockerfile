@@ -1,1 +1,1 @@
-From rook/ceph:v1.10.0
+From wordpress:4.6.1-apache
