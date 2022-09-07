@@ -1,1 +1,1 @@
-From quay.io/ceph/ceph:v17.2.3
+From alpine:3.16.2
