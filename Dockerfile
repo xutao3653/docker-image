@@ -1,1 +1,1 @@
-From alpine:3.16.2
+From bitnami/kubectl:1.21.11
