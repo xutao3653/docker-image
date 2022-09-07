@@ -1,1 +1,1 @@
-From quay.io/csiaddons/volumereplication-operator:v0.3.0
+From registry.access.redhat.com/rhel7/sssd:latest
