@@ -1,1 +1,1 @@
-From docker.io/library/nginx:latest
+From mysql:5.6
