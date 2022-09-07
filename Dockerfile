@@ -1,1 +1,1 @@
-From registry.k8s.io/sig-storage/csi-snapshotter:v6.0.1
+From registry.k8s.io/sig-storage/nfsplugin:v4.0.0
