@@ -1,1 +1,1 @@
-From registry.k8s.io/sig-storage/csi-attacher:v3.5.0
+From registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.1
