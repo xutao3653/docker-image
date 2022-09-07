@@ -1,1 +1,1 @@
-From mysql:5.6
+From quay.io/ceph/ceph:v16
